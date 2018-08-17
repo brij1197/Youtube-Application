@@ -1,0 +1,15 @@
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Youtube Light.csprojAssemblyReference.cache
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Youtubelight.Form1.resources
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Youtube Light.csproj.GenerateResource.cache
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Youtube Light.csproj.CoreCompileInputs.cache
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YouTube App.exe.config
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YouTube App.exe
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YouTube App.pdb
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Geckofx-Core.dll
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Geckofx-Winforms.dll
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Geckofx-Core.pdb
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Youtube Light.csproj.CopyComplete
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YouTube App.exe
+C:\Users\brijb\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\YouTube App.pdb
